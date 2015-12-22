@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="onlinestate_type">
+		<item>在线</item>
+		<item>忙碌</item>
+		<item>隐身</item>
+		<item>离线</item>
+	</string-array>
+
+</resources>
